@@ -27,6 +27,9 @@ Busco evoluir constantemente em **Java**, desenvolvimento **back-end**, estrutur
   * Suporte técnico a usuários e infraestrutura de hardware.
   * Organização, controle e inventário de computadores e dispositivos.
   * Participação no desenvolvimento de plataformas de gerenciamento de máquinas.
+   L> * Link do Repositorio: https://github.com/jucathegoat/reservamaquinaaqui
+
+  
 * **Bacharelado em Ciência da Computação** · *UNINOVE (2026 — atual)*
   * Fundamentos de programação, algoritmos e banco de dados.
 
